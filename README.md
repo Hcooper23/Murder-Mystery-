@@ -16,7 +16,6 @@
 
 [User Story Link](https://docs.google.com/document/d/1Fe9w76uf006tykt2Jm8F8VnCmg28dgIczSr-K-oo2pg/edit?usp=sharing)
 
-[Domain Modeling](https://juancarlosolmedo148958.invisionapp.com/freehand/Mastermind-of-Murder-wireframe-lgDxjBgAE?dsid_h=59c408ea9cfa0d931a3df1e8e0e4e7067ca913ed519c06089cbd067c4970da44&uid_h=ba672d163c35c71906283c7899a94aa73de78e1b3b757b42fbd98710a07c9546)
+[Domain Modeling/ WireFrame](https://projects.invisionapp.com/freehand/document/yHZiscKzZ)
 
-[Domain Modeling Image](Screenshot%202023-03-27%20at%2010.03.05%20PM.png)
 
