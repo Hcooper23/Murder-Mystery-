@@ -18,5 +18,5 @@
 
 [Domain Modeling/ WireFrame](https://projects.invisionapp.com/freehand/document/yHZiscKzZ)
 
-[Netlify](https://murder-mystery201.netlify.app/gamestarting.html)
+[Netlify Deployment](https://murder-mystery201.netlify.app/gamestarting.html)
 
